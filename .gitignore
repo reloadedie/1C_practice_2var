@@ -1,0 +1,36 @@
+# 1С:Предприятие
+*.1CD
+*.1CL
+*.cgr
+*.cf
+*.cfu
+*.epf
+*.erf
+
+# Логи
+1Cv8Log/
+*.lgp
+*.lgf
+*.elf
+
+# Временные файлы
+1Cv8tmp.*
+*.tmp
+*.bak
+*.backup
+
+# Пользовательские настройки
+*.usr
+*.pfl
+*.cft
+*.cfn
+
+# Резервные копии
+*.snp
+*.dbf
+*.cdx
+
+# Системные файлы
+Thumbs.db
+.DS_Store
+desktop.ini
